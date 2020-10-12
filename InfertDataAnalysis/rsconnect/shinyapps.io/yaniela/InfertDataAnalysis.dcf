@@ -1,0 +1,12 @@
+name: InfertDataAnalysis
+title: InfertDataAnalysis
+username:
+account: yaniela
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2998738
+bundleId: 3732070
+url: https://yaniela.shinyapps.io/InfertDataAnalysis/
+when: 1602543120.22193
+asMultiple: FALSE
+asStatic: FALSE
