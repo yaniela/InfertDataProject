@@ -1,3 +1,3 @@
 # InfertDataProject
 
-Source code in the InterDataProject file
+Source code in the InterDataAnalisys file
